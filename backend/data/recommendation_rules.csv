@@ -1,0 +1,61 @@
+selected_product,recommended_product,pair_count,confidence
+Burger,Orange Juice,81,66.39
+Burger,Coffee,21,17.21
+Burger,Chocolate Cake,17,13.93
+Burger,Croissant,10,8.2
+Burger,Cupcake,10,8.2
+Tea,Chicken Bun,150,79.37
+Tea,Croissant,22,11.64
+Tea,Donut,18,9.52
+Tea,Iced Coffee,17,8.99
+Tea,Orange Juice,12,6.35
+Orange Juice,Sandwich,152,55.68
+Orange Juice,Burger,81,29.67
+Orange Juice,Coffee,32,11.72
+Orange Juice,Chocolate Cake,26,9.52
+Orange Juice,Cupcake,15,5.49
+Chicken Bun,Tea,150,79.37
+Chicken Bun,Donut,20,10.58
+Chicken Bun,Croissant,17,8.99
+Chicken Bun,Coffee,17,8.99
+Chicken Bun,Chocolate Cake,15,7.94
+Croissant,Iced Coffee,85,58.22
+Croissant,Tea,22,15.07
+Croissant,Coffee,21,14.38
+Croissant,Chicken Bun,17,11.64
+Croissant,Cupcake,15,10.27
+Iced Coffee,Croissant,85,61.15
+Iced Coffee,Coffee,21,15.11
+Iced Coffee,Tea,17,12.23
+Iced Coffee,Cupcake,13,9.35
+Iced Coffee,Chicken Bun,11,7.91
+Sandwich,Orange Juice,152,80.0
+Sandwich,Coffee,18,9.47
+Sandwich,Chocolate Cake,17,8.95
+Sandwich,Donut,13,6.84
+Sandwich,Chicken Bun,11,5.79
+Coffee,Chocolate Cake,209,61.29
+Coffee,Cupcake,98,28.74
+Coffee,Orange Juice,32,9.38
+Coffee,Iced Coffee,21,6.16
+Coffee,Burger,21,6.16
+Cupcake,Coffee,98,70.0
+Cupcake,Orange Juice,15,10.71
+Cupcake,Croissant,15,10.71
+Cupcake,Iced Coffee,13,9.29
+Cupcake,Milkshake,12,8.57
+Donut,Milkshake,102,65.81
+Donut,Chicken Bun,20,12.9
+Donut,Coffee,19,12.26
+Donut,Tea,18,11.61
+Donut,Chocolate Cake,13,8.39
+Chocolate Cake,Coffee,209,86.01
+Chocolate Cake,Orange Juice,26,10.7
+Chocolate Cake,Burger,17,7.0
+Chocolate Cake,Sandwich,17,7.0
+Chocolate Cake,Chicken Bun,15,6.17
+Milkshake,Donut,102,71.83
+Milkshake,Coffee,20,14.08
+Milkshake,Cupcake,12,8.45
+Milkshake,Orange Juice,12,8.45
+Milkshake,Croissant,11,7.75
